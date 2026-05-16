@@ -16,7 +16,9 @@
     "event_vibe": "roda de samba",
     "audience": "público de samba e pagode",
     "source_post_url": "https://www.instagram.com/p/DYZmtaXjPbK/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/areiampb.jpg",
+    "image_profile_match": "@areiampb"
   },
   {
     "event_name": "Hoje no Rock Club",
@@ -35,7 +37,9 @@
     "event_vibe": "rock",
     "audience": "público de rock",
     "source_post_url": "https://www.instagram.com/p/DYZ2cMcR3G2/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/barrockclub.jpg",
+    "image_profile_match": "@barrockclub"
   },
   {
     "event_name": "Próximo sábado no Rock Club",
@@ -54,7 +58,9 @@
     "event_vibe": "rock",
     "audience": "público de rock",
     "source_post_url": "https://www.instagram.com/p/DYNC9CiEVS1/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/barrockclub.jpg",
+    "image_profile_match": "@barrockclub"
   },
   {
     "event_name": "Evento detectado em @barrockclub",
@@ -73,7 +79,9 @@
     "event_vibe": "rock",
     "audience": "público de rock",
     "source_post_url": "https://www.instagram.com/p/DYSpSTmKbqr/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/barrockclub.jpg",
+    "image_profile_match": "@barrockclub"
   },
   {
     "event_name": "Sábado no Rock Club",
@@ -92,7 +100,9 @@
     "event_vibe": "rock",
     "audience": "público de rock",
     "source_post_url": "https://www.instagram.com/p/DYZvmXuRR92/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/barrockclub.jpg",
+    "image_profile_match": "@barrockclub"
   },
   {
     "event_name": "Evento detectado em @becodorato",
@@ -111,7 +121,9 @@
     "event_vibe": "boêmio, roda de samba",
     "audience": "público de samba e pagode",
     "source_post_url": "https://www.instagram.com/p/DYaJDOgiYtu/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/becodorato.jpg",
+    "image_profile_match": "@becodorato"
   },
   {
     "event_name": "Evento detectado em @becodorato",
@@ -130,7 +142,9 @@
     "event_vibe": "boêmio, roda de samba",
     "audience": "público de samba e pagode",
     "source_post_url": "https://www.instagram.com/p/DYZxvSUub2o/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/becodorato.jpg",
+    "image_profile_match": "@becodorato"
   },
   {
     "event_name": "Agenda da semana no ar com show da @vitapereiraa 🪩",
@@ -149,7 +163,9 @@
     "event_vibe": "boêmio, open bar, festa",
     "audience": "público jovem e baladeiro",
     "source_post_url": "https://www.instagram.com/p/DYNyokekRFI/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": null,
+    "image_profile_match": null
   },
   {
     "event_name": "É hoje! ❤‍",
@@ -168,7 +184,9 @@
     "event_vibe": "boêmio, open bar, festa",
     "audience": "público jovem e baladeiro",
     "source_post_url": "https://www.instagram.com/p/DYZ7WpMkbs6/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": null,
+    "image_profile_match": null
   },
   {
     "event_name": "HOJE É DIA DO MELHOR SÁBADO DA CIDADE",
@@ -187,7 +205,9 @@
     "event_vibe": "roda de samba",
     "audience": "público de samba e pagode",
     "source_post_url": "https://www.instagram.com/p/DYZ0AsxqNw6/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/botecobene.jpg",
+    "image_profile_match": "@botecobene"
   },
   {
     "event_name": "Seis meses do nosso Brejo  um brinde a esses e aos próximos que virão!",
@@ -206,7 +226,9 @@
     "event_vibe": "festa",
     "audience": "público jovem e baladeiro",
     "source_post_url": "https://www.instagram.com/p/DYS-efNx6yh/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/brejobarrj.jpg",
+    "image_profile_match": "@brejobarrj"
   },
   {
     "event_name": "Programação da Semana Caverna Rock Pub",
@@ -225,7 +247,9 @@
     "event_vibe": "rock",
     "audience": "público de rock",
     "source_post_url": "https://www.instagram.com/p/DYUfHs1kemo/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/cavernarockpub.jpg",
+    "image_profile_match": "@cavernarockpub"
   },
   {
     "event_name": "👉 Sábado - 16/05 - Demodê 80s",
@@ -244,7 +268,9 @@
     "event_vibe": "rock",
     "audience": "público de rock",
     "source_post_url": "https://www.instagram.com/p/DYaNV0vkfCC/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/cavernarockpub.jpg",
+    "image_profile_match": "@cavernarockpub"
   },
   {
     "event_name": "👉 Sábado - 16/05 - Demodê 80s",
@@ -263,7 +289,9 @@
     "event_vibe": "rock",
     "audience": "público de rock",
     "source_post_url": "https://www.instagram.com/p/DYaBxgSlUGt/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/cavernarockpub.jpg",
+    "image_profile_match": "@cavernarockpub"
   },
   {
     "event_name": "⚔ A semana na Duas Torres já tem trilha sonora marcada! 🎶",
@@ -282,7 +310,9 @@
     "event_vibe": "jazz",
     "audience": "amantes de jazz",
     "source_post_url": "https://www.instagram.com/p/DYNgDL9iLF2/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/cervejariaduastorres.jpg",
+    "image_profile_match": "@cervejariaduastorres"
   },
   {
     "event_name": "Evento detectado em @coisasdebamba",
@@ -301,7 +331,9 @@
     "event_vibe": "ao ar livre, roda de samba",
     "audience": "público de samba e pagode",
     "source_post_url": "https://www.instagram.com/p/DYZnHJAIEau/",
-    "confidence": 0.9
+    "confidence": 0.9,
+    "image_url": null,
+    "image_profile_match": null
   },
   {
     "event_name": "SABADOU no Coordenadas! HOJE tem showzaço da banda @banda.soul.rock no Coordenadas!",
@@ -320,7 +352,9 @@
     "event_vibe": "rock, festa",
     "audience": "público jovem e baladeiro",
     "source_post_url": "https://www.instagram.com/p/DYZvDAdDiB4/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/coordenadasbar.jpg",
+    "image_profile_match": "@coordenadasbar"
   },
   {
     "event_name": "‌Sábado na Lapa tem endereço e tem axé. ☀",
@@ -339,7 +373,9 @@
     "event_vibe": "boêmio",
     "audience": null,
     "source_post_url": "https://www.instagram.com/p/DYZoQgCgIlS/",
-    "confidence": 0.65
+    "confidence": 0.65,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/didabar.erestaurante.jpg",
+    "image_profile_match": "@didabar.erestaurante"
   },
   {
     "event_name": "Vamos de samba pra esquentar esse fim de semana? 🥁",
@@ -358,7 +394,9 @@
     "event_vibe": "roda de samba",
     "audience": "público de samba e pagode",
     "source_post_url": "https://www.instagram.com/p/DYNt-vHifcP/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/eisenbahnbiergarten.jpg",
+    "image_profile_match": "@eisenbahnbiergarten"
   },
   {
     "event_name": "Evento detectado em @exquina.gastrobar",
@@ -377,7 +415,9 @@
     "event_vibe": "roda de samba",
     "audience": "público de samba e pagode",
     "source_post_url": "https://www.instagram.com/p/DYP9RYylsvb/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/exquina.gastrobar.jpg",
+    "image_profile_match": "@exquina.gastrobar"
   },
   {
     "event_name": "Evento detectado em @ginga.rio",
@@ -396,7 +436,9 @@
     "event_vibe": null,
     "audience": null,
     "source_post_url": "https://www.instagram.com/p/DYZpts9jqMg/",
-    "confidence": 0.8
+    "confidence": 0.8,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/ginga.rio.jpg",
+    "image_profile_match": "@ginga.rio"
   },
   {
     "event_name": "Evento detectado em @junglegardenpub",
@@ -415,7 +457,9 @@
     "event_vibe": null,
     "audience": null,
     "source_post_url": "https://www.instagram.com/p/DYNNScZgBf5/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/junglegardenpub.jpg",
+    "image_profile_match": "@junglegardenpub"
   },
   {
     "event_name": "O ÚLTIMO CAPÍTULO DA KOSMIKA CHEGOU!",
@@ -434,7 +478,9 @@
     "event_vibe": "festa",
     "audience": null,
     "source_post_url": "https://www.instagram.com/p/DYTJnnORf_z/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": null,
+    "image_profile_match": null
   },
   {
     "event_name": "HOJE - KARAOKE  VERDE - 15 Maio no LAPA IRISH PUB.",
@@ -453,7 +499,9 @@
     "event_vibe": "boêmio, rock",
     "audience": "público de rock",
     "source_post_url": "https://www.instagram.com/p/DYYpT-itLHa/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/lapairishpub.jpg",
+    "image_profile_match": "@lapairishpub"
   },
   {
     "event_name": "SÁBADO - 16 de Maio com NO ASSOCIATION a TRIBUTE Por CLÁSSICO GRUNGE!!!!",
@@ -472,7 +520,9 @@
     "event_vibe": "rock",
     "audience": "público de rock",
     "source_post_url": "https://www.instagram.com/p/DYPgZ5ix7Ug/",
-    "confidence": 0.65
+    "confidence": 0.65,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/lapairishpub.jpg",
+    "image_profile_match": "@lapairishpub"
   },
   {
     "event_name": "KARAOKE  VERDE - QUINTA é SEXTA, 14  e 15 Maio no LAPA IRISH PUB.",
@@ -491,7 +541,9 @@
     "event_vibe": "boêmio, rock",
     "audience": "público de rock",
     "source_post_url": "https://www.instagram.com/p/DYOEXBBx4TP/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/lapairishpub.jpg",
+    "image_profile_match": "@lapairishpub"
   },
   {
     "event_name": "Evento detectado em @madbrewtap",
@@ -510,7 +562,9 @@
     "event_vibe": "festa",
     "audience": "público jovem e baladeiro",
     "source_post_url": "https://www.instagram.com/p/DYLLWSPj_t9/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/madbrewtap.jpg",
+    "image_profile_match": "@madbrewtap"
   },
   {
     "event_name": "Evento detectado em @pinkflamingorio",
@@ -529,7 +583,9 @@
     "event_vibe": "festa",
     "audience": "público jovem e baladeiro",
     "source_post_url": "https://www.instagram.com/p/DYA9KaJDqs0/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": null,
+    "image_profile_match": null
   },
   {
     "event_name": "Evento detectado em @pinkflamingorio",
@@ -548,7 +604,9 @@
     "event_vibe": "festa",
     "audience": "público jovem e baladeiro",
     "source_post_url": "https://www.instagram.com/p/DYaIsdAjsqu/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": null,
+    "image_profile_match": null
   },
   {
     "event_name": "Evento detectado em @pinkflamingorio",
@@ -567,7 +625,9 @@
     "event_vibe": null,
     "audience": null,
     "source_post_url": "https://www.instagram.com/p/DYVU_ToljM5/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": null,
+    "image_profile_match": null
   },
   {
     "event_name": "Prepare os sentidos: o Festival de Brasilidades é hojeee!",
@@ -586,7 +646,9 @@
     "event_vibe": "boêmio",
     "audience": null,
     "source_post_url": "https://www.instagram.com/p/DYZcLbIFLmr/",
-    "confidence": 0.95
+    "confidence": 0.95,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/planetamaltebar.jpg",
+    "image_profile_match": "@planetamaltebar"
   },
   {
     "event_name": "Evento detectado em @planetamaltebar",
@@ -605,7 +667,9 @@
     "event_vibe": "boêmio, festa",
     "audience": null,
     "source_post_url": "https://www.instagram.com/p/DYVF5tOgqNR/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/planetamaltebar.jpg",
+    "image_profile_match": "@planetamaltebar"
   },
   {
     "event_name": "Evento detectado em @planetamaltebar",
@@ -624,7 +688,9 @@
     "event_vibe": "festa",
     "audience": null,
     "source_post_url": "https://www.instagram.com/p/DYPn7FUFXJC/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/planetamaltebar.jpg",
+    "image_profile_match": "@planetamaltebar"
   },
   {
     "event_name": "Preparados para o Festival de Brasilidades? É AMANHÃ!",
@@ -643,7 +709,9 @@
     "event_vibe": "boêmio, festa",
     "audience": null,
     "source_post_url": "https://www.instagram.com/p/DYXz0qkmMnp/",
-    "confidence": 0.9
+    "confidence": 0.9,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/planetamaltebar.jpg",
+    "image_profile_match": "@planetamaltebar"
   },
   {
     "event_name": "Se prepara, porque isso aqui não é só um show… é EXPERIÊNCIA.",
@@ -662,7 +730,9 @@
     "event_vibe": "rock",
     "audience": "público de rock",
     "source_post_url": "https://www.instagram.com/p/DXC_YKuCeql/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/poraodoalemaobv.jpg",
+    "image_profile_match": "@poraodoalemaobv"
   },
   {
     "event_name": "🚨 É HOJE! O Tribus vai virar um templo do NU METAL. 🤘",
@@ -681,7 +751,9 @@
     "event_vibe": "rock",
     "audience": "público de rock",
     "source_post_url": "https://www.instagram.com/p/DYZvGqNHKkN/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/pub.tribus.jpg",
+    "image_profile_match": "@pub.tribus"
   },
   {
     "event_name": "Evento detectado em @pub.tribus",
@@ -700,7 +772,9 @@
     "event_vibe": "rock",
     "audience": "público de rock",
     "source_post_url": "https://www.instagram.com/p/DYPce6EHEEg/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/pub.tribus.jpg",
+    "image_profile_match": "@pub.tribus"
   },
   {
     "event_name": "🗣É HOJE!",
@@ -719,7 +793,9 @@
     "event_vibe": "festa",
     "audience": "público jovem e baladeiro",
     "source_post_url": "https://www.instagram.com/p/DYZ75q8O6Pq/",
-    "confidence": 0.95
+    "confidence": 0.95,
+    "image_url": null,
+    "image_profile_match": null
   },
   {
     "event_name": "🗣QUE A CONTAGEM REGRESSIVA COMECE!",
@@ -738,7 +814,9 @@
     "event_vibe": "festa",
     "audience": "público jovem e baladeiro",
     "source_post_url": "https://www.instagram.com/p/DYYCrcSubOA/",
-    "confidence": 0.65
+    "confidence": 0.65,
+    "image_url": null,
+    "image_profile_match": null
   },
   {
     "event_name": "Evento detectado em @rocknbeerpub",
@@ -757,7 +835,9 @@
     "event_vibe": "boêmio",
     "audience": null,
     "source_post_url": "https://www.instagram.com/p/DXmq0pMjEgf/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/rocknbeerpub.jpg",
+    "image_profile_match": "@rocknbeerpub"
   },
   {
     "event_name": "É HOJEEEEEEEEEEE!",
@@ -776,7 +856,9 @@
     "event_vibe": null,
     "audience": null,
     "source_post_url": "https://www.instagram.com/p/DYZiJPLuRiG/",
-    "confidence": 0.65
+    "confidence": 0.65,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/rocknbeerpub.jpg",
+    "image_profile_match": "@rocknbeerpub"
   },
   {
     "event_name": "Evento detectado em @sambadaconstituicao",
@@ -795,7 +877,9 @@
     "event_vibe": "roda de samba, festa",
     "audience": "público de samba e pagode",
     "source_post_url": "https://www.instagram.com/p/DYXP9RkxRPc/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": null,
+    "image_profile_match": null
   },
   {
     "event_name": "Sábado tem encontro marcado com o melhor do samba!",
@@ -814,7 +898,9 @@
     "event_vibe": "roda de samba",
     "audience": "público de samba e pagode",
     "source_post_url": "https://www.instagram.com/p/DYUzw4Vx8RJ/",
-    "confidence": 0.9
+    "confidence": 0.9,
+    "image_url": null,
+    "image_profile_match": null
   },
   {
     "event_name": "É HOJE!",
@@ -833,7 +919,9 @@
     "event_vibe": "roda de samba",
     "audience": "público de samba e pagode",
     "source_post_url": "https://www.instagram.com/p/DYZboDZFjeX/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": null,
+    "image_profile_match": null
   },
   {
     "event_name": "DOMINGOU do jeito que a gente gosta",
@@ -852,7 +940,9 @@
     "event_vibe": "roda de samba",
     "audience": "público de samba e pagode",
     "source_post_url": "https://www.instagram.com/p/DYX5yAAKcFV/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/botecobene.jpg",
+    "image_profile_match": "@botecobene"
   },
   {
     "event_name": "⚠ ATENÇÃO AOS HORÁRIOS DO SHOW DE AMANHÃ DO SHAMANGRA NO CAVERNA ROCK PUB! ⚠",
@@ -871,7 +961,9 @@
     "event_vibe": "rock",
     "audience": "público de rock",
     "source_post_url": "https://www.instagram.com/p/DYZ3u6xFeXg/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/cavernarockpub.jpg",
+    "image_profile_match": "@cavernarockpub"
   },
   {
     "event_name": "Mais uma semana lncrivel vai começar no seu Bar preferido!",
@@ -890,7 +982,9 @@
     "event_vibe": "boêmio, roda de samba, festa",
     "audience": "público de samba e pagode",
     "source_post_url": "https://www.instagram.com/p/DYM3I3FDgHV/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/coordenadasbar.jpg",
+    "image_profile_match": "@coordenadasbar"
   },
   {
     "event_name": "Evento detectado em @entaotahsamba",
@@ -909,7 +1003,9 @@
     "event_vibe": "ao ar livre, roda de samba",
     "audience": "público de samba e pagode",
     "source_post_url": "https://www.instagram.com/p/DYQQRJfRfSp/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": null,
+    "image_profile_match": null
   },
   {
     "event_name": "Evento detectado em @entaotahsamba",
@@ -928,7 +1024,9 @@
     "event_vibe": "ao ar livre, roda de samba",
     "audience": "público de samba e pagode",
     "source_post_url": "https://www.instagram.com/p/DYQPxPlxydb/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": null,
+    "image_profile_match": null
   },
   {
     "event_name": "Evento detectado em @entaotahsamba",
@@ -947,7 +1045,9 @@
     "event_vibe": "ao ar livre, roda de samba",
     "audience": "público de samba e pagode",
     "source_post_url": "https://www.instagram.com/p/DYQPnXBxazF/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": null,
+    "image_profile_match": null
   },
   {
     "event_name": "Evento detectado em @entaotahsamba",
@@ -966,7 +1066,9 @@
     "event_vibe": "roda de samba",
     "audience": "público de samba e pagode",
     "source_post_url": "https://www.instagram.com/p/DYZ3kALR77z/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": null,
+    "image_profile_match": null
   },
   {
     "event_name": "O Último Dia da Kosmika será histórico.",
@@ -985,7 +1087,9 @@
     "event_vibe": null,
     "audience": null,
     "source_post_url": "https://www.instagram.com/p/DYVRo_aRqJI/",
-    "confidence": 0.95
+    "confidence": 0.95,
+    "image_url": null,
+    "image_profile_match": null
   },
   {
     "event_name": "DOMINGO É DIA DE ROCK NACIONAL ANOS 2000 NA LA BODEGUITA!",
@@ -1004,7 +1108,9 @@
     "event_vibe": "rock",
     "audience": "público de rock",
     "source_post_url": "https://www.instagram.com/p/DYZYOqITo8O/",
-    "confidence": 0.8
+    "confidence": 0.8,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/labodeguitacafe.jpg",
+    "image_profile_match": "@labodeguitacafe"
   },
   {
     "event_name": "Evento detectado em @lapairishpub",
@@ -1023,7 +1129,9 @@
     "event_vibe": "boêmio",
     "audience": null,
     "source_post_url": "https://www.instagram.com/p/DYU34xER-EX/",
-    "confidence": 0.8
+    "confidence": 0.8,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/lapairishpub.jpg",
+    "image_profile_match": "@lapairishpub"
   },
   {
     "event_name": "Amanhã nosso encontro ta marcado ♥!",
@@ -1042,7 +1150,9 @@
     "event_vibe": null,
     "audience": null,
     "source_post_url": "https://www.instagram.com/p/DYZxGnauMR5/",
-    "confidence": 0.65
+    "confidence": 0.65,
+    "image_url": null,
+    "image_profile_match": null
   },
   {
     "event_name": "É DOMINGÃO COM CLIMA LÁ NO ALTO NO RENASCENÇA CLUBE!",
@@ -1061,7 +1171,9 @@
     "event_vibe": "roda de samba",
     "audience": "público de samba e pagode",
     "source_post_url": "https://www.instagram.com/p/DYXk22Vjp5T/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": null,
+    "image_profile_match": null
   },
   {
     "event_name": "🗓 Agenda de Fim de semana no BDZP - Flamengo!",
@@ -1080,7 +1192,9 @@
     "event_vibe": "roda de samba",
     "audience": "público de samba e pagode",
     "source_post_url": "https://www.instagram.com/p/DYW-inUlrWA/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/bardozecapagodinho.flamengo.jpg",
+    "image_profile_match": "@bardozecapagodinho.flamengo"
   },
   {
     "event_name": "Evento detectado em @cervejariaduastorres",
@@ -1099,7 +1213,9 @@
     "event_vibe": "boêmio, festa",
     "audience": "público jovem e baladeiro",
     "source_post_url": "https://www.instagram.com/p/DYUs0HBjoMs/",
-    "confidence": 0.8
+    "confidence": 0.8,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/cervejariaduastorres.jpg",
+    "image_profile_match": "@cervejariaduastorres"
   },
   {
     "event_name": "Evento detectado em @junglegardenpub",
@@ -1118,7 +1234,9 @@
     "event_vibe": null,
     "audience": null,
     "source_post_url": "https://www.instagram.com/p/DYUs4eIjarZ/",
-    "confidence": 0.8
+    "confidence": 0.8,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/junglegardenpub.jpg",
+    "image_profile_match": "@junglegardenpub"
   },
   {
     "event_name": "Ciência, conversa boa e chopp gelado 🧠",
@@ -1137,7 +1255,9 @@
     "event_vibe": "festa",
     "audience": "público jovem e baladeiro",
     "source_post_url": "https://www.instagram.com/p/DYPXA_Ay4QG/",
-    "confidence": 0.65
+    "confidence": 0.65,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/beerhousecervejas.jpg",
+    "image_profile_match": "@beerhousecervejas"
   },
   {
     "event_name": "Evento detectado em @brejobarrj",
@@ -1156,7 +1276,9 @@
     "event_vibe": "festa",
     "audience": "público jovem e baladeiro",
     "source_post_url": "https://www.instagram.com/p/DYUnrg5Otpy/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/brejobarrj.jpg",
+    "image_profile_match": "@brejobarrj"
   },
   {
     "event_name": "Almoço especial no fim de semana com pratos que não estão no cardápio fixo?  TUDO DE BOM",
@@ -1175,7 +1297,9 @@
     "event_vibe": "festa",
     "audience": "público jovem e baladeiro",
     "source_post_url": "https://www.instagram.com/p/DYX7eV0GTTD/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/brejobarrj.jpg",
+    "image_profile_match": "@brejobarrj"
   },
   {
     "event_name": "Evento detectado em @becodorato",
@@ -1194,7 +1318,9 @@
     "event_vibe": "roda de samba",
     "audience": "público de samba e pagode",
     "source_post_url": "https://www.instagram.com/p/DYYdqA6uRS8/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/becodorato.jpg",
+    "image_profile_match": "@becodorato"
   },
   {
     "event_name": "Mais informações 👇🏻",
@@ -1213,7 +1339,9 @@
     "event_vibe": null,
     "audience": null,
     "source_post_url": "https://www.instagram.com/p/DYZd8EUgDCt/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/cinebotequim2.jpg",
+    "image_profile_match": "@cinebotequim2"
   },
   {
     "event_name": "Evento detectado em @pinkflamingo.media",
@@ -1232,7 +1360,9 @@
     "event_vibe": null,
     "audience": null,
     "source_post_url": "https://www.instagram.com/p/DYWVWz7FkUX/",
-    "confidence": 0.65
+    "confidence": 0.65,
+    "image_url": null,
+    "image_profile_match": null
   },
   {
     "event_name": "Evento detectado em @pinkflamingo.media",
@@ -1251,7 +1381,9 @@
     "event_vibe": null,
     "audience": null,
     "source_post_url": "https://www.instagram.com/p/DYWUV0bFri8/",
-    "confidence": 0.65
+    "confidence": 0.65,
+    "image_url": null,
+    "image_profile_match": null
   },
   {
     "event_name": "Evento detectado em @pinkflamingo.media",
@@ -1270,7 +1402,9 @@
     "event_vibe": null,
     "audience": null,
     "source_post_url": "https://www.instagram.com/p/DYWTZ03jZwa/",
-    "confidence": 0.65
+    "confidence": 0.65,
+    "image_url": null,
+    "image_profile_match": null
   },
   {
     "event_name": "Evento detectado em @pinkflamingo.media",
@@ -1289,7 +1423,9 @@
     "event_vibe": null,
     "audience": null,
     "source_post_url": "https://www.instagram.com/p/DYWSeCuja2Z/",
-    "confidence": 0.65
+    "confidence": 0.65,
+    "image_url": null,
+    "image_profile_match": null
   },
   {
     "event_name": "AFONTE DE LAMNETH - UMA CELEBRAÇÃO RUSH !",
@@ -1308,7 +1444,9 @@
     "event_vibe": null,
     "audience": null,
     "source_post_url": "https://www.instagram.com/p/DYLJ71wDvpl/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/afonte_barra_da_tijuca.jpg",
+    "image_profile_match": "@afonte_barra_da_tijuca"
   },
   {
     "event_name": "⚠O Quintal mais badalado de São Gonçalo ⚠",
@@ -1327,7 +1465,9 @@
     "event_vibe": null,
     "audience": null,
     "source_post_url": "https://www.instagram.com/p/DYZmKljxoKe/",
-    "confidence": 0.8
+    "confidence": 0.8,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/quintaldo_chopp.jpg",
+    "image_profile_match": "@quintaldo_chopp"
   },
   {
     "event_name": "Samba Que Elas Querem pela primeira vez no Beco da Cultura ❤",
@@ -1346,7 +1486,9 @@
     "event_vibe": "roda de samba",
     "audience": "público de samba e pagode",
     "source_post_url": "https://www.instagram.com/p/DX7O3x_Ed-F/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": null,
+    "image_profile_match": null
   },
   {
     "event_name": "O Jantar Africano está de volta! 🌍",
@@ -1365,7 +1507,9 @@
     "event_vibe": "boêmio",
     "audience": null,
     "source_post_url": "https://www.instagram.com/p/DYX5FwMAjaC/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/didabar.erestaurante.jpg",
+    "image_profile_match": "@didabar.erestaurante"
   },
   {
     "event_name": "Evento detectado em @ontappub",
@@ -1384,7 +1528,9 @@
     "event_vibe": "rock",
     "audience": "público de rock",
     "source_post_url": "https://www.instagram.com/p/DYP71EMJqdq/",
-    "confidence": 0.9
+    "confidence": 0.9,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/ontappub.jpg",
+    "image_profile_match": "@ontappub"
   },
   {
     "event_name": "A próxima edição do BANJO E BATUQUE já tem clima de saudade antes mesmo de começar!",
@@ -1403,7 +1549,9 @@
     "event_vibe": "roda de samba",
     "audience": "público de samba e pagode",
     "source_post_url": "https://www.instagram.com/p/DYVT0rHD_9y/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": null,
+    "image_profile_match": null
   },
   {
     "event_name": "Vocês acham que eles só cantam??? 🤣",
@@ -1422,7 +1570,9 @@
     "event_vibe": "roda de samba",
     "audience": "público de samba e pagode",
     "source_post_url": "https://www.instagram.com/p/DYX2ENZToLJ/",
-    "confidence": 0.75
+    "confidence": 0.75,
+    "image_url": null,
+    "image_profile_match": null
   },
   {
     "event_name": "DIA DE JOGO DO BRASIL… E DE ROCK NO TALO COM TICO SANTA CRUZ! 🇧🇷🎸",
@@ -1441,7 +1591,9 @@
     "event_vibe": "rock",
     "audience": "público de rock",
     "source_post_url": "https://www.instagram.com/p/DYNgljnpgdI/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/poraodoalemaobv.jpg",
+    "image_profile_match": "@poraodoalemaobv"
   },
   {
     "event_name": "🪩 OCULTO 🌑 | CUPOM DESCONTO: MUNIZ",
@@ -1460,6 +1612,8 @@
     "event_vibe": "festa",
     "audience": "público jovem e baladeiro",
     "source_post_url": "https://www.instagram.com/p/DYYZJ9rkbrg/",
-    "confidence": 0.99
+    "confidence": 0.99,
+    "image_url": null,
+    "image_profile_match": null
   }
 ]
