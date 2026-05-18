@@ -1,0 +1,3426 @@
+{
+  "generated_at": "2026-05-18T00:00:00-03:00",
+  "city_focus": "Rio de Janeiro",
+  "rules": {
+    "no_invented_data": true,
+    "unknown_values_are_null": true,
+    "photos_must_be_real_urls": true,
+    "invalid_or_ambiguous_items_are_kept_for_audit": true
+  },
+  "summary": {
+    "input_items": 101,
+    "verified_full": 5,
+    "verified_partial": 72,
+    "invalid_or_unavailable_handle": 0,
+    "unmatched_name": 19,
+    "unverified_handle": 5,
+    "with_real_photo": 57,
+    "safe_for_app_display": 57,
+    "complete_for_requested_mock": 5
+  },
+  "venues": [
+    {
+      "id": "maguje.rio",
+      "input_label": "@maguje.rio",
+      "name": "Maguje Rio",
+      "instagram_profile": "@maguje.rio",
+      "instagram_url": "https://www.instagram.com/maguje.rio/",
+      "type": "bar",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/maguje.rio.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/maguje.rio/",
+        "https://www.instagram.com/p/DXnJRMWDs3e/"
+      ],
+      "canonical_id": "maguje.rio"
+    },
+    {
+      "id": "brejobarrj",
+      "input_label": "@brejobarrj",
+      "name": "Brejobarrj",
+      "instagram_profile": "@brejobarrj",
+      "instagram_url": "https://www.instagram.com/brejobarrj/",
+      "type": "bar",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/brejobarrj.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/brejobarrj/",
+        "https://www.instagram.com/p/DYUnrg5Otpy/"
+      ],
+      "canonical_id": "brejobarrj"
+    },
+    {
+      "id": "coisasdebamba",
+      "input_label": "@coisasdebamba",
+      "name": "Coisasdebamba",
+      "instagram_profile": "@coisasdebamba",
+      "instagram_url": "https://www.instagram.com/coisasdebamba/",
+      "type": "samba_project",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/coisasdebamba/"
+      ],
+      "canonical_id": "coisasdebamba"
+    },
+    {
+      "id": "cardosaoapagodinho.flamengo",
+      "input_label": "@cardosãoapagodinho.flamengo",
+      "name": "Cardosãoapagodinho Flamengo",
+      "instagram_profile": "@cardosãoapagodinho.flamengo",
+      "instagram_url": "https://www.instagram.com/cardosãoapagodinho.flamengo/",
+      "type": null,
+      "address": null,
+      "bairro": null,
+      "city": null,
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "unverified_handle",
+      "verified": false,
+      "active_2026": null,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Handle não encontrado na base local e sem fonte segura nesta passada.",
+      "sources": [
+        "https://www.instagram.com/cardosãoapagodinho.flamengo/"
+      ],
+      "canonical_id": "cardosaoapagodinho.flamengo"
+    },
+    {
+      "id": "areiampb",
+      "input_label": "@areiampb",
+      "name": "Areiampb",
+      "instagram_profile": "@areiampb",
+      "instagram_url": "https://www.instagram.com/areiampb/",
+      "type": "music_bar",
+      "address": null,
+      "bairro": "Copacabana",
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/areiampb.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/areiampb/",
+        "https://www.instagram.com/p/DYMp_yfkYQ0/"
+      ],
+      "canonical_id": "areiampb"
+    },
+    {
+      "id": "amarelinhooficial",
+      "input_label": "@amarelinhooficial",
+      "name": "Amarelinhooficial",
+      "instagram_profile": "@amarelinhooficial",
+      "instagram_url": "https://www.instagram.com/amarelinhooficial/",
+      "type": "bar",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/amarelinhooficial.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/amarelinhooficial/",
+        "https://www.instagram.com/p/DE2w5wNv7pQ/"
+      ],
+      "canonical_id": "amarelinhooficial"
+    },
+    {
+      "id": "ginga.rio",
+      "input_label": "@ginga.rio",
+      "name": "Ginga Rio",
+      "instagram_profile": "@ginga.rio",
+      "instagram_url": "https://www.instagram.com/ginga.rio/",
+      "type": "quiosque_bar",
+      "address": null,
+      "bairro": "Leme",
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/ginga.rio.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/ginga.rio/",
+        "https://www.instagram.com/p/DYZpts9jqMg/"
+      ],
+      "canonical_id": "ginga.rio"
+    },
+    {
+      "id": "muretadalapa",
+      "input_label": "@muretadalapa",
+      "name": "Muretadalapa",
+      "instagram_profile": "@muretadalapa",
+      "instagram_url": "https://www.instagram.com/muretadalapa/",
+      "type": "bar",
+      "address": null,
+      "bairro": "Lapa",
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/muretadalapa.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/muretadalapa/",
+        "https://www.instagram.com/p/DX1o0snjhit/"
+      ],
+      "canonical_id": "muretadalapa"
+    },
+    {
+      "id": "encontroscasuais",
+      "input_label": "@encontroscasuais",
+      "name": "Encontroscasuais",
+      "instagram_profile": "@encontroscasuais",
+      "instagram_url": "https://www.instagram.com/encontroscasuais/",
+      "type": "music_project",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/encontroscasuais/"
+      ],
+      "canonical_id": "encontroscasuais"
+    },
+    {
+      "id": "sambaqueelasquerem",
+      "input_label": "@sambaqueelasquerem",
+      "name": "Sambaqueelasquerem",
+      "instagram_profile": "@sambaqueelasquerem",
+      "instagram_url": "https://www.instagram.com/sambaqueelasquerem/",
+      "type": "samba_project",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/sambaqueelasquerem/"
+      ],
+      "canonical_id": "sambaqueelasquerem"
+    },
+    {
+      "id": "bandabecodorato",
+      "input_label": "@bandabecodorato",
+      "name": "Bandabecodorato",
+      "instagram_profile": "@bandabecodorato",
+      "instagram_url": "https://www.instagram.com/bandabecodorato/",
+      "type": "band",
+      "address": null,
+      "bairro": "Lapa",
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/bandabecodorato/"
+      ],
+      "canonical_id": "bandabecodorato"
+    },
+    {
+      "id": "pedradosal.oficial",
+      "input_label": "@pedradosal.oficial",
+      "name": "Pedra do Sal",
+      "instagram_profile": "@pedradosal.oficial",
+      "instagram_url": "https://www.instagram.com/pedradosal.oficial/",
+      "type": "roda de samba e evento cultural de rua",
+      "address": "Largo João da Baiana / Rua Argemiro Bulcão, Saúde/Gamboa, Rio de Janeiro - RJ",
+      "bairro": "Saúde",
+      "city": "Rio de Janeiro",
+      "opening_hours": "Roda de samba semanal às segundas, 19h às 23h, conforme credenciamento municipal citado em fonte pública",
+      "busiest_day": "segunda-feira",
+      "busiest_day_note": "A Pedra do Sal é amplamente citada como ponto tradicional de samba de segunda-feira.",
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": true,
+        "has_verified_opening_hours": true,
+        "has_verified_busiest_day": true,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://pt.wikipedia.org/wiki/Pedra_do_Sal",
+        "https://cultura.prefeitura.rio/wp-content/uploads/sites/38/2024/09/RESULTADO-PRELIMINAR-EDITAL-DE-CREDENCIAMENTO-DAS-RODAS-DE-SAMBA-1.docx.pdf",
+        "https://www.instagram.com/pedradosal.oficial/"
+      ],
+      "canonical_id": "pedradosal.oficial"
+    },
+    {
+      "id": "armazemcardosao",
+      "input_label": "@armazemcardosao",
+      "name": "Armazém Cardosão",
+      "instagram_profile": "@armazemcardosao",
+      "instagram_url": "https://www.instagram.com/armazemcardosao/",
+      "type": "boteco, mercearia, samba e jazz",
+      "address": "Rua Cardoso Júnior, 312 - Laranjeiras, Rio de Janeiro - RJ, 22245-000",
+      "bairro": "Laranjeiras",
+      "city": "Rio de Janeiro",
+      "opening_hours": "Terça a sexta a partir de 17h; sábado e domingo a partir de 12h",
+      "busiest_day": "sábado",
+      "busiest_day_note": "Riotur informa feijoada aos sábados e Time Out cita programação musical/rodas, incluindo samba às quintas.",
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/armazemcardosao.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_full",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": true,
+        "has_verified_opening_hours": true,
+        "has_verified_busiest_day": true,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": true
+      },
+      "notes": "Registro com endereço, horário, dia forte e foto real vinculada.",
+      "sources": [
+        "https://riotur.rio/onde_comer/armazem-cardosao/",
+        "https://www.timeout.com/rio-de-janeiro/bars/armazem-cardosao",
+        "https://www.instagram.com/armazemcardosao/",
+        "https://www.instagram.com/p/DYXiTXDJxJ6/"
+      ],
+      "canonical_id": "armazemcardosao"
+    },
+    {
+      "id": "quintaldo_chopp",
+      "input_label": "@quintaldo_chopp",
+      "name": "Quintaldo Chopp",
+      "instagram_profile": "@quintaldo_chopp",
+      "instagram_url": "https://www.instagram.com/quintaldo_chopp/",
+      "type": "bar",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/quintaldo_chopp.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/quintaldo_chopp/",
+        "https://www.instagram.com/p/DX-EQ6qGDPg/"
+      ],
+      "canonical_id": "quintaldo_chopp"
+    },
+    {
+      "id": "didabar.erestaurante",
+      "input_label": "@didabar.erestaurante",
+      "name": "Didabar Erestaurante",
+      "instagram_profile": "@didabar.erestaurante",
+      "instagram_url": "https://www.instagram.com/didabar.erestaurante/",
+      "type": "bar_restaurant",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/didabar.erestaurante.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/didabar.erestaurante/",
+        "https://www.instagram.com/p/DYX5FwMAjaC/"
+      ],
+      "canonical_id": "didabar.erestaurante"
+    },
+    {
+      "id": "sambadaconstituicao",
+      "input_label": "@sambadaconstituicao",
+      "name": "Sambadaconstituicao",
+      "instagram_profile": "@sambadaconstituicao",
+      "instagram_url": "https://www.instagram.com/sambadaconstituicao/",
+      "type": "samba_project",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/sambadaconstituicao/"
+      ],
+      "canonical_id": "sambadaconstituicao"
+    },
+    {
+      "id": "purosucoafesta",
+      "input_label": "@purosucoafesta",
+      "name": "Purosucoafesta",
+      "instagram_profile": "@purosucoafesta",
+      "instagram_url": "https://www.instagram.com/purosucoafesta/",
+      "type": "party",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/purosucoafesta/"
+      ],
+      "canonical_id": "purosucoafesta"
+    },
+    {
+      "id": "napalmadobanjo",
+      "input_label": "@napalmadobanjo",
+      "name": "Napalmadobanjo",
+      "instagram_profile": "@napalmadobanjo",
+      "instagram_url": "https://www.instagram.com/napalmadobanjo/",
+      "type": "samba_project",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/napalmadobanjo/"
+      ],
+      "canonical_id": "napalmadobanjo"
+    },
+    {
+      "id": "cervejariaduastorres",
+      "input_label": "@cervejariaduastorres",
+      "name": "Cervejariaduastorres",
+      "instagram_profile": "@cervejariaduastorres",
+      "instagram_url": "https://www.instagram.com/cervejariaduastorres/",
+      "type": "brewery_bar",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/cervejariaduastorres.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/cervejariaduastorres/",
+        "https://www.instagram.com/p/DYNgDL9iLF2/"
+      ],
+      "canonical_id": "cervejariaduastorres"
+    },
+    {
+      "id": "cinebotequim2",
+      "input_label": "@cinebotequim2",
+      "name": "Cinebotequim2",
+      "instagram_profile": "@cinebotequim2",
+      "instagram_url": "https://www.instagram.com/cinebotequim2/",
+      "type": "boteco",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/cinebotequim2.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/cinebotequim2/",
+        "https://www.instagram.com/p/DMdaatdAyQ2/"
+      ],
+      "canonical_id": "cinebotequim2"
+    },
+    {
+      "id": "biergartendomuseu",
+      "input_label": "@biergartendomuseu",
+      "name": "Biergartendomuseu",
+      "instagram_profile": "@biergartendomuseu",
+      "instagram_url": "https://www.instagram.com/biergartendomuseu/",
+      "type": "beer_garden",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/biergartendomuseu.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/biergartendomuseu/",
+        "https://www.instagram.com/p/DU3FwUKgK0h/"
+      ],
+      "canonical_id": "biergartendomuseu"
+    },
+    {
+      "id": "pub.tribus",
+      "input_label": "@pub.tribus",
+      "name": "Pub Tribus",
+      "instagram_profile": "@pub.tribus",
+      "instagram_url": "https://www.instagram.com/pub.tribus/",
+      "type": "pub",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/pub.tribus.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/pub.tribus/",
+        "https://www.instagram.com/p/DYZvGqNHKkN/"
+      ],
+      "canonical_id": "pub.tribus"
+    },
+    {
+      "id": "biervila",
+      "input_label": "@biervila",
+      "name": "Biervila",
+      "instagram_profile": "@biervila",
+      "instagram_url": "https://www.instagram.com/biervila/",
+      "type": "beer_bar",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/biervila.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/biervila/",
+        "https://www.instagram.com/p/DWbkMWKjQ2g/"
+      ],
+      "canonical_id": "biervila"
+    },
+    {
+      "id": "eisenbahnbiergarten",
+      "input_label": "@eisenbahnbiergarten",
+      "name": "Eisenbahnbiergarten",
+      "instagram_profile": "@eisenbahnbiergarten",
+      "instagram_url": "https://www.instagram.com/eisenbahnbiergarten/",
+      "type": "beer_garden",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/eisenbahnbiergarten.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/eisenbahnbiergarten/",
+        "https://www.instagram.com/p/DYNt-vHifcP/"
+      ],
+      "canonical_id": "eisenbahnbiergarten"
+    },
+    {
+      "id": "beerhousecervejas",
+      "input_label": "@beerhousecervejas",
+      "name": "Beerhousecervejas",
+      "instagram_profile": "@beerhousecervejas",
+      "instagram_url": "https://www.instagram.com/beerhousecervejas/",
+      "type": "beer_bar",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/beerhousecervejas.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/beerhousecervejas/",
+        "https://www.instagram.com/p/DYPXA_Ay4QG/"
+      ],
+      "canonical_id": "beerhousecervejas"
+    },
+    {
+      "id": "hooligansrock",
+      "input_label": "@hooligansrock",
+      "name": "Hooligansrock",
+      "instagram_profile": "@hooligansrock",
+      "instagram_url": "https://www.instagram.com/hooligansrock/",
+      "type": "rock_bar",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/hooligansrock.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/hooligansrock/",
+        "https://www.instagram.com/p/DYC-Cv1xBR7/"
+      ],
+      "canonical_id": "hooligansrock"
+    },
+    {
+      "id": "ontappub",
+      "input_label": "@ontappub",
+      "name": "Ontappub",
+      "instagram_profile": "@ontappub",
+      "instagram_url": "https://www.instagram.com/ontappub/",
+      "type": "pub",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/ontappub.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/ontappub/",
+        "https://www.instagram.com/p/DYSlXPwJkiW/"
+      ],
+      "canonical_id": "ontappub"
+    },
+    {
+      "id": "casa.medieval",
+      "input_label": "@casa.medieval",
+      "name": "Casa Medieval",
+      "instagram_profile": "@casa.medieval",
+      "instagram_url": "https://www.instagram.com/casa.medieval/",
+      "type": "theme_bar",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/casa.medieval.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/casa.medieval/",
+        "https://www.instagram.com/p/DV8aKIYjkab/"
+      ],
+      "canonical_id": "casa.medieval"
+    },
+    {
+      "id": "coordenadasbar",
+      "input_label": "@coordenadasbar",
+      "name": "Coordenadasbar",
+      "instagram_profile": "@coordenadasbar",
+      "instagram_url": "https://www.instagram.com/coordenadasbar/",
+      "type": "bar",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/coordenadasbar.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/coordenadasbar/",
+        "https://www.instagram.com/p/DYM3I3FDgHV/"
+      ],
+      "canonical_id": "coordenadasbar"
+    },
+    {
+      "id": "planetamaltebar",
+      "input_label": "@planetamaltebar",
+      "name": "Planetamaltebar",
+      "instagram_profile": "@planetamaltebar",
+      "instagram_url": "https://www.instagram.com/planetamaltebar/",
+      "type": "beer_bar",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/planetamaltebar.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/planetamaltebar/",
+        "https://www.instagram.com/p/DYZcLbIFLmr/"
+      ],
+      "canonical_id": "planetamaltebar"
+    },
+    {
+      "id": "poraodoalemaobv",
+      "input_label": "@poraodoalemaobv",
+      "name": "Poraodoalemaobv",
+      "instagram_profile": "@poraodoalemaobv",
+      "instagram_url": "https://www.instagram.com/poraodoalemaobv/",
+      "type": "pub",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/poraodoalemaobv.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/poraodoalemaobv/",
+        "https://www.instagram.com/p/DYNgljnpgdI/"
+      ],
+      "canonical_id": "poraodoalemaobv"
+    },
+    {
+      "id": "rockbarpub",
+      "input_label": "@rockbarpub",
+      "name": "Rockbarpub",
+      "instagram_profile": "@rockbarpub",
+      "instagram_url": "https://www.instagram.com/rockbarpub/",
+      "type": "rock_bar",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/rockbarpub.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/rockbarpub/",
+        "https://www.instagram.com/p/DYU1Ji4I8ZN/"
+      ],
+      "canonical_id": "rockbarpub"
+    },
+    {
+      "id": "cinebotequim",
+      "input_label": "@cinebotequim",
+      "name": "Cinebotequim",
+      "instagram_profile": "@cinebotequim",
+      "instagram_url": "https://www.instagram.com/cinebotequim/",
+      "type": "boteco",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/cinebotequim.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/cinebotequim/",
+        "https://www.instagram.com/p/DWjEKOwlXui/"
+      ],
+      "canonical_id": "cinebotequim"
+    },
+    {
+      "id": "botecobene",
+      "input_label": "@botecobene",
+      "name": "Botecobene",
+      "instagram_profile": "@botecobene",
+      "instagram_url": "https://www.instagram.com/botecobene/",
+      "type": "boteco",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/botecobene.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/botecobene/",
+        "https://www.instagram.com/p/DQksR0tDWB5/"
+      ],
+      "canonical_id": "botecobene"
+    },
+    {
+      "id": "rocknbeerpub",
+      "input_label": "@rocknbeerpub",
+      "name": "Rocknbeerpub",
+      "instagram_profile": "@rocknbeerpub",
+      "instagram_url": "https://www.instagram.com/rocknbeerpub/",
+      "type": "rock_pub",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/rocknbeerpub.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/rocknbeerpub/",
+        "https://www.instagram.com/p/DXmq0pMjEgf/"
+      ],
+      "canonical_id": "rocknbeerpub"
+    },
+    {
+      "id": "labodeguitacafe",
+      "input_label": "@labodeguitacafe",
+      "name": "Labodeguitacafe",
+      "instagram_profile": "@labodeguitacafe",
+      "instagram_url": "https://www.instagram.com/labodeguitacafe/",
+      "type": "bar_cafe",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/labodeguitacafe.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/labodeguitacafe/",
+        "https://www.instagram.com/p/DYZYOqITo8O/"
+      ],
+      "canonical_id": "labodeguitacafe"
+    },
+    {
+      "id": "madbrewtap",
+      "input_label": "@madbrewtap",
+      "name": "Madbrewtap",
+      "instagram_profile": "@madbrewtap",
+      "instagram_url": "https://www.instagram.com/madbrewtap/",
+      "type": "brewpub",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/madbrewtap.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/madbrewtap/",
+        "https://www.instagram.com/p/DYX6WreCSQS/"
+      ],
+      "canonical_id": "madbrewtap"
+    },
+    {
+      "id": "casaraobrewpub",
+      "input_label": "@casaraobrewpub",
+      "name": "Casaraobrewpub",
+      "instagram_profile": "@casaraobrewpub",
+      "instagram_url": "https://www.instagram.com/casaraobrewpub/",
+      "type": "brewpub",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/casaraobrewpub.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/casaraobrewpub/",
+        "https://www.instagram.com/p/DUA6lltknOc/"
+      ],
+      "canonical_id": "casaraobrewpub"
+    },
+    {
+      "id": "adegadolago",
+      "input_label": "@adegadolago",
+      "name": "Adegadolago",
+      "instagram_profile": "@adegadolago",
+      "instagram_url": "https://www.instagram.com/adegadolago/",
+      "type": "bar",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/adegadolago.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/adegadolago/",
+        "https://www.instagram.com/p/DYKDa8QEf9e/"
+      ],
+      "canonical_id": "adegadolago"
+    },
+    {
+      "id": "cervejariaodin",
+      "input_label": "@cervejariaodin",
+      "name": "Cervejariaodin",
+      "instagram_profile": "@cervejariaodin",
+      "instagram_url": "https://www.instagram.com/cervejariaodin/",
+      "type": "brewery_bar",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/cervejariaodin.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/cervejariaodin/",
+        "https://www.instagram.com/p/DYXXbuuDmHp/"
+      ],
+      "canonical_id": "cervejariaodin"
+    },
+    {
+      "id": "cavernarockpub",
+      "input_label": "@cavernarockpub",
+      "name": "Cavernarockpub",
+      "instagram_profile": "@cavernarockpub",
+      "instagram_url": "https://www.instagram.com/cavernarockpub/",
+      "type": "rock_pub",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/cavernarockpub.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/cavernarockpub/",
+        "https://www.instagram.com/p/DYUfHs1kemo/"
+      ],
+      "canonical_id": "cavernarockpub"
+    },
+    {
+      "id": "barrockclub",
+      "input_label": "@barrockclub",
+      "name": "Barrockclub",
+      "instagram_profile": "@barrockclub",
+      "instagram_url": "https://www.instagram.com/barrockclub/",
+      "type": "rock_bar",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/barrockclub.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/barrockclub/",
+        "https://www.instagram.com/p/DYZ2cMcR3G2/"
+      ],
+      "canonical_id": "barrockclub"
+    },
+    {
+      "id": "afonte_barra_da_tijuca",
+      "input_label": "@afonte_barra_da_tijuca",
+      "name": "Afonte Barra Da Tijuca",
+      "instagram_profile": "@afonte_barra_da_tijuca",
+      "instagram_url": "https://www.instagram.com/afonte_barra_da_tijuca/",
+      "type": "bar",
+      "address": null,
+      "bairro": "Barra",
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/afonte_barra_da_tijuca.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/afonte_barra_da_tijuca/",
+        "https://www.instagram.com/p/DS43nZ6DhJ-/"
+      ],
+      "canonical_id": "afonte_barra_da_tijuca"
+    },
+    {
+      "id": "junglegardenpub",
+      "input_label": "@junglegardenpub",
+      "name": "Junglegardenpub",
+      "instagram_profile": "@junglegardenpub",
+      "instagram_url": "https://www.instagram.com/junglegardenpub/",
+      "type": "pub",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/junglegardenpub.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/junglegardenpub/",
+        "https://www.instagram.com/p/DYNNScZgBf5/"
+      ],
+      "canonical_id": "junglegardenpub"
+    },
+    {
+      "id": "dragsrio",
+      "input_label": "@dragsrio",
+      "name": "Dragsrio",
+      "instagram_profile": "@dragsrio",
+      "instagram_url": "https://www.instagram.com/dragsrio/",
+      "type": "drag_scene",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/dragsrio/"
+      ],
+      "canonical_id": "dragsrio"
+    },
+    {
+      "id": "pinkflamingo.media",
+      "input_label": "@pinkflamingo.media",
+      "name": "Pinkflamingo Media",
+      "instagram_profile": "@pinkflamingo.media",
+      "instagram_url": "https://www.instagram.com/pinkflamingo.media/",
+      "type": "nightlife_media",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/pinkflamingo.media/"
+      ],
+      "canonical_id": "pinkflamingo.media"
+    },
+    {
+      "id": "boatesave",
+      "input_label": "@boatesave",
+      "name": "Boatesave",
+      "instagram_profile": "@boatesave",
+      "instagram_url": "https://www.instagram.com/boatesave/",
+      "type": "nightclub",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/boatesave/"
+      ],
+      "canonical_id": "boatesave"
+    },
+    {
+      "id": "improvisoloungebar",
+      "input_label": "@improvisoloungebar",
+      "name": "Improvisoloungebar",
+      "instagram_profile": "@improvisoloungebar",
+      "instagram_url": "https://www.instagram.com/improvisoloungebar/",
+      "type": "lounge_bar",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/improvisoloungebar.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/improvisoloungebar/",
+        "https://www.instagram.com/p/DOeeZKikRpA/"
+      ],
+      "canonical_id": "improvisoloungebar"
+    },
+    {
+      "id": "kosmika_club",
+      "input_label": "@kosmika_club",
+      "name": "Kosmika Club",
+      "instagram_profile": "@kosmika_club",
+      "instagram_url": "https://www.instagram.com/kosmika_club/",
+      "type": "nightclub",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/kosmika_club/"
+      ],
+      "canonical_id": "kosmika_club"
+    },
+    {
+      "id": "entaotahsamba",
+      "input_label": "@entaotahsamba",
+      "name": "Entaotahsamba",
+      "instagram_profile": "@entaotahsamba",
+      "instagram_url": "https://www.instagram.com/entaotahsamba/",
+      "type": "samba_project",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/entaotahsamba/"
+      ],
+      "canonical_id": "entaotahsamba"
+    },
+    {
+      "id": "festaoculto",
+      "input_label": "@festaoculto",
+      "name": "Festaoculto",
+      "instagram_profile": "@festaoculto",
+      "instagram_url": "https://www.instagram.com/festaoculto/",
+      "type": "party",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/festaoculto/"
+      ],
+      "canonical_id": "festaoculto"
+    },
+    {
+      "id": "gpaoficial",
+      "input_label": "@gpaoficial",
+      "name": "Gpaoficial",
+      "instagram_profile": "@gpaoficial",
+      "instagram_url": "https://www.instagram.com/gpaoficial/",
+      "type": "nightlife_group",
+      "address": null,
+      "bairro": null,
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/gpaoficial/"
+      ],
+      "canonical_id": "gpaoficial"
+    },
+    {
+      "id": "xepa.bar",
+      "input_label": "@xepa.bar",
+      "name": "Xepa Bar",
+      "instagram_profile": "@xepa.bar",
+      "instagram_url": "https://www.instagram.com/xepa.bar/",
+      "type": "bar",
+      "address": "Rua Arnaldo Quintela, 87 - Botafogo, Rio de Janeiro - RJ",
+      "bairro": "Botafogo",
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/xepa.bar.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": true,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://wanderlog.com/place/details/5761977/xepa-bar",
+        "https://www.instagram.com/xepa.bar/",
+        "https://www.instagram.com/p/DYF3lH4H_Iz/"
+      ],
+      "canonical_id": "xepa.bar"
+    },
+    {
+      "id": "quartinhobar",
+      "input_label": "@quartinhobar",
+      "name": "Quartinho Bar",
+      "instagram_profile": "@quartinhobar",
+      "instagram_url": "https://www.instagram.com/quartinhobar/",
+      "type": "bar",
+      "address": "Rua Arnaldo Quintela, 124 - Botafogo, Rio de Janeiro - RJ",
+      "bairro": "Botafogo",
+      "city": "Rio de Janeiro",
+      "opening_hours": "Terça e quarta 18h-01h; quinta a sábado 18h-02h; domingo e segunda fechado",
+      "busiest_day": "quinta e sábado",
+      "busiest_day_note": "Time Out cita matinê às quintas; fontes públicas também citam DJs e pista aos sábados.",
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/quartinhobar.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_full",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": true,
+        "has_verified_opening_hours": true,
+        "has_verified_busiest_day": true,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": true
+      },
+      "notes": "Registro completo com endereço, horário, dia forte e foto real vinculada.",
+      "sources": [
+        "https://wanderlog.com/place/details/4289164/quartinho-bar",
+        "https://www.instagram.com/quartinhobar/",
+        "https://www.instagram.com/p/DYaJfaquSp8/",
+        "https://www.timeout.com/rio-de-janeiro/bars/quartinho-bar",
+        "https://mepoenaboa.com/pt/rio-de-janeiro/botafogo/bares/quartinho-bar/"
+      ],
+      "canonical_id": "quartinhobar"
+    },
+    {
+      "id": "barterorj",
+      "input_label": "@barterorj",
+      "name": "Bar Tero",
+      "instagram_profile": "@barterorj",
+      "instagram_url": "https://www.instagram.com/barterorj/",
+      "type": "vermuteria e restaurante",
+      "address": "Rua Paulo Barreto, 110 - Botafogo, Rio de Janeiro - RJ",
+      "bairro": "Botafogo",
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/barterorj.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": true,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://wanderlog.com/place/details/7456028/bar-tero-vermuteria-e-restaurante",
+        "https://www.instagram.com/barterorj/",
+        "https://www.instagram.com/p/DYXzdTyJovc/"
+      ],
+      "canonical_id": "barterorj"
+    },
+    {
+      "id": "pccardosaobar",
+      "input_label": "@pccardosãobar",
+      "name": "Pccardosãobar",
+      "instagram_profile": "@pccardosãobar",
+      "instagram_url": "https://www.instagram.com/pccardosãobar/",
+      "type": null,
+      "address": null,
+      "bairro": null,
+      "city": null,
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "unverified_handle",
+      "verified": false,
+      "active_2026": null,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Handle não encontrado na base local e sem fonte segura nesta passada.",
+      "sources": [
+        "https://www.instagram.com/pccardosãobar/"
+      ],
+      "canonical_id": "pccardosaobar"
+    },
+    {
+      "id": "barbukowski",
+      "input_label": "@barbukowski",
+      "name": "Bar Bukowski",
+      "instagram_profile": "@barbukowski",
+      "instagram_url": "https://www.instagram.com/barbukowski/",
+      "type": "rock bar",
+      "address": "Rua Álvaro Ramos, 270 - Botafogo, Rio de Janeiro - RJ",
+      "bairro": "Botafogo",
+      "city": "Rio de Janeiro",
+      "opening_hours": "Sexta e sábado 21h-06h",
+      "busiest_day": "sexta e sábado",
+      "busiest_day_note": "Yelp/Apple Maps registram funcionamento principal nas sextas e sábados até 06h.",
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": true,
+        "has_verified_opening_hours": true,
+        "has_verified_busiest_day": true,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://barbukowski.com.br/",
+        "https://www.instagram.com/barbukowski/",
+        "https://www.yelp.com/biz/bar-bukowski-rio-de-janeiro-2",
+        "https://maps.apple.com/place?place-id=I700C464B168AC3B5"
+      ],
+      "canonical_id": "barbukowski"
+    },
+    {
+      "id": "beise.rio",
+      "input_label": "@beise.rio",
+      "name": "BEISE Arte Bar",
+      "instagram_profile": "@beise.rio",
+      "instagram_url": "https://www.instagram.com/beise.rio/",
+      "type": "arte bar",
+      "address": "Praia de Botafogo, 454 - Botafogo, Rio de Janeiro - RJ",
+      "bairro": "Botafogo",
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/beise.rio.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": true,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://linktr.ee/beise.rio",
+        "https://www.instagram.com/beise.rio/",
+        "https://www.instagram.com/p/DJH9wvJSgp2/"
+      ],
+      "canonical_id": "beise.rio"
+    },
+    {
+      "id": "viancocktailbar",
+      "input_label": "@viancocktailbar",
+      "name": "Vian Cocktail Bar",
+      "instagram_profile": "@viancocktailbar",
+      "instagram_url": "https://www.instagram.com/viancocktailbar/",
+      "type": "cocktail bar",
+      "address": "Rua Visconde de Silva, 21 - Botafogo, Rio de Janeiro - RJ",
+      "bairro": "Botafogo",
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/viancocktailbar.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": true,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://linktr.ee/viancocktailbar",
+        "https://www.instagram.com/viancocktailbar/",
+        "https://www.instagram.com/p/ClHDee-uAJs/"
+      ],
+      "canonical_id": "viancocktailbar"
+    },
+    {
+      "id": "calma.tocalma",
+      "input_label": "@calma.tocalma",
+      "name": "Calma",
+      "instagram_profile": "@calma.tocalma",
+      "instagram_url": "https://www.instagram.com/calma.tocalma/",
+      "type": "bar",
+      "address": "Rua Arnaldo Quintela, 51 - Botafogo, Rio de Janeiro - RJ",
+      "bairro": "Botafogo",
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/calma.tocalma.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": true,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://mapstr.com/place/kBZhN4VxrM",
+        "https://www.instagram.com/calma.tocalma/",
+        "https://www.instagram.com/p/DRM-QKwjdua/"
+      ],
+      "canonical_id": "calma.tocalma"
+    },
+    {
+      "id": "maejoana.rj",
+      "input_label": "@maejoana.rj",
+      "name": "Maejoana Rj",
+      "instagram_profile": "@maejoana.rj",
+      "instagram_url": "https://www.instagram.com/maejoana.rj/",
+      "type": "bar",
+      "address": null,
+      "bairro": "Botafogo",
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/maejoana.rj.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/maejoana.rj/",
+        "https://www.instagram.com/p/C-sEcQ6NnN_/"
+      ],
+      "canonical_id": "maejoana.rj"
+    },
+    {
+      "id": "macunaarte",
+      "input_label": "@macunaarte",
+      "name": "Macuna",
+      "instagram_profile": "@macunaarte",
+      "instagram_url": "https://www.instagram.com/macunaarte/",
+      "type": "bar de arte",
+      "address": "Rua Fernandes Guimarães, 66 - Botafogo, Rio de Janeiro - RJ",
+      "bairro": "Botafogo",
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/macunaarte.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": true,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://wanderlog.com/es/place/details/6283044/macuna-bar",
+        "https://www.instagram.com/macunaarte/",
+        "https://www.instagram.com/p/DJ7tlq7Jgf4/"
+      ],
+      "canonical_id": "macunaarte"
+    },
+    {
+      "id": "reconvexo_bar",
+      "input_label": "@reconvexo_bar",
+      "name": "Reconvexo Bar",
+      "instagram_profile": "@reconvexo_bar",
+      "instagram_url": "https://www.instagram.com/reconvexo_bar/",
+      "type": "bar",
+      "address": "Rua Henrique de Novais, 55 - Botafogo, Rio de Janeiro - RJ",
+      "bairro": "Botafogo",
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": true,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://wanderlog.com/place/details/12003500/reconvexo-bar",
+        "https://www.instagram.com/reconvexo_bar/"
+      ],
+      "canonical_id": "reconvexo_bar"
+    },
+    {
+      "id": "butecotremetreme",
+      "input_label": "@butecotremetreme",
+      "name": "Buteco Treme Treme",
+      "instagram_profile": "@butecotremetreme",
+      "instagram_url": "https://www.instagram.com/butecotremetreme/",
+      "type": "boteco",
+      "address": "Rua Arnaldo Quintela, 31 - Botafogo, Rio de Janeiro - RJ",
+      "bairro": "Botafogo",
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/butecotremetreme.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": true,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://wanderlog.com/place/details/8053117/boteco-treme-treme",
+        "https://www.instagram.com/butecotremetreme/",
+        "https://www.instagram.com/p/DFasPv4xAci/"
+      ],
+      "canonical_id": "butecotremetreme"
+    },
+    {
+      "id": "otra.bar",
+      "input_label": "@otra.bar",
+      "name": "Otra Bar",
+      "instagram_profile": "@otra.bar",
+      "instagram_url": "https://www.instagram.com/otra.bar/",
+      "type": "bar",
+      "address": "Rua Belfort Roxo, 58 - Copacabana, Rio de Janeiro - RJ",
+      "bairro": "Copacabana",
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": true,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://otrabar.carrd.co/",
+        "https://www.instagram.com/otra.bar/"
+      ],
+      "canonical_id": "otra.bar"
+    },
+    {
+      "id": "baecks.bar",
+      "input_label": "@baecks.bar",
+      "name": "Baeck's GastroBar",
+      "instagram_profile": "@baecks.bar",
+      "instagram_url": "https://www.instagram.com/baecks.bar/",
+      "type": "gastrobar",
+      "address": "Rua Aires Saldanha, 21 - Copacabana, Rio de Janeiro - RJ",
+      "bairro": "Copacabana",
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/baecks.bar.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": true,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://triptap.com/places/br/rio-de-janeiro/rio-de-janeiro/baecks-gastrobar-t00c8a21",
+        "https://www.instagram.com/baecks.bar/",
+        "https://www.instagram.com/p/DNPMX6uuUgc/"
+      ],
+      "canonical_id": "baecks.bar"
+    },
+    {
+      "id": "cardosaodecardosaoro",
+      "input_label": "@cardosãodecardosãoro",
+      "name": "Cardosãodecardosãoro",
+      "instagram_profile": "@cardosãodecardosãoro",
+      "instagram_url": "https://www.instagram.com/cardosãodecardosãoro/",
+      "type": null,
+      "address": null,
+      "bairro": null,
+      "city": null,
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "unverified_handle",
+      "verified": false,
+      "active_2026": null,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Handle não encontrado na base local e sem fonte segura nesta passada.",
+      "sources": [
+        "https://www.instagram.com/cardosãodecardosãoro/"
+      ],
+      "canonical_id": "cardosaodecardosaoro"
+    },
+    {
+      "id": "cardosao.bar",
+      "input_label": "cardosão.bar",
+      "name": "Cardosão.Bar",
+      "instagram_profile": null,
+      "instagram_url": null,
+      "type": null,
+      "address": null,
+      "bairro": null,
+      "city": null,
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "unmatched_name",
+      "verified": false,
+      "active_2026": null,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Nome sem handle confirmado na base local; precisa de validação externa antes de uso no app.",
+      "sources": [],
+      "canonical_id": "cardosao.bar"
+    },
+    {
+      "id": "adegaperola",
+      "input_label": "@adegaperola",
+      "name": "Adega Pérola",
+      "instagram_profile": "@adegaperola",
+      "instagram_url": "https://www.instagram.com/adegaperola/",
+      "type": "bar",
+      "address": "Rua Siqueira Campos, 138 - loja A - Copacabana, Rio de Janeiro - RJ",
+      "bairro": "Copacabana",
+      "city": "Rio de Janeiro",
+      "opening_hours": "Segunda a sábado 11h30-01h; domingo fechado",
+      "busiest_day": "sexta e sábado",
+      "busiest_day_note": "Fonte pública registra funcionamento até 01h e descreve ambiente que fica cheio em horários de pico.",
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/adegaperola.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_full",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": true,
+        "has_verified_opening_hours": true,
+        "has_verified_busiest_day": true,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": true
+      },
+      "notes": "Registro completo com endereço, horário, dia forte e foto real vinculada.",
+      "sources": [
+        "https://vejario.abril.com.br/estabelecimento/adega-perola/",
+        "https://www.instagram.com/adegaperola/",
+        "https://www.instagram.com/p/DXKh8DIDLp2/",
+        "https://mepoenaboa.com/pt/rio-de-janeiro/copacabana/bares/adega-perola-copacabana/"
+      ],
+      "canonical_id": "adegaperola"
+    },
+    {
+      "id": "cardosaoloficial",
+      "input_label": "@cardosãoloficial",
+      "name": "Cardosãoloficial",
+      "instagram_profile": "@cardosãoloficial",
+      "instagram_url": "https://www.instagram.com/cardosãoloficial/",
+      "type": null,
+      "address": null,
+      "bairro": null,
+      "city": null,
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "unverified_handle",
+      "verified": false,
+      "active_2026": null,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Handle não encontrado na base local e sem fonte segura nesta passada.",
+      "sources": [
+        "https://www.instagram.com/cardosãoloficial/"
+      ],
+      "canonical_id": "cardosaoloficial"
+    },
+    {
+      "id": "popeyebaripanema",
+      "input_label": "@popeyebaripanema",
+      "name": "Popeyebaripanema",
+      "instagram_profile": "@popeyebaripanema",
+      "instagram_url": "https://www.instagram.com/popeyebaripanema/",
+      "type": "bar",
+      "address": null,
+      "bairro": "Ipanema",
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/popeyebaripanema.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/popeyebaripanema/",
+        "https://www.instagram.com/p/C-v4_2juN8t/"
+      ],
+      "canonical_id": "popeyebaripanema"
+    },
+    {
+      "id": "barlagoa",
+      "input_label": "@barlagoa",
+      "name": "Bar Lagoa",
+      "instagram_profile": "@barlagoa",
+      "instagram_url": "https://www.instagram.com/barlagoa/",
+      "type": "bar",
+      "address": "Ipanema/Lagoa, Rio de Janeiro - RJ",
+      "bairro": "Lagoa",
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/barlagoa.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": true,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://riotur.rio/onde_comer/bar-lagoa/",
+        "https://www.instagram.com/barlagoa/",
+        "https://www.instagram.com/p/DGQdwFbu1C6/"
+      ],
+      "canonical_id": "barlagoa"
+    },
+    {
+      "id": "boteco_belmonte",
+      "input_label": "@boteco_belmonte",
+      "name": "Boteco Belmonte",
+      "instagram_profile": "@boteco_belmonte",
+      "instagram_url": "https://www.instagram.com/boteco_belmonte/",
+      "type": "boteco",
+      "address": null,
+      "bairro": "Ipanema/Leblon",
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/boteco_belmonte.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/boteco_belmonte/",
+        "https://www.instagram.com/p/DF21FpqxKYH/"
+      ],
+      "canonical_id": "boteco_belmonte"
+    },
+    {
+      "id": "bar_bracarense",
+      "input_label": "@bar_bracarense",
+      "name": "Bar Bracarense",
+      "instagram_profile": "@bar_bracarense",
+      "instagram_url": "https://www.instagram.com/bar_bracarense/",
+      "type": "bar",
+      "address": "Leblon, Rio de Janeiro - RJ",
+      "bairro": "Leblon",
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/bar_bracarense.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": true,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://riotur.rio/onde_comer/bracarense/",
+        "https://www.instagram.com/bar_bracarense/",
+        "https://www.instagram.com/p/DWzc0nWlHht/"
+      ],
+      "canonical_id": "bar_bracarense"
+    },
+    {
+      "id": "casa_clipper",
+      "input_label": "@casa_clipper",
+      "name": "Casa Clipper",
+      "instagram_profile": "@casa_clipper",
+      "instagram_url": "https://www.instagram.com/casa_clipper/",
+      "type": "bar/confeitaria",
+      "address": "Leblon, Rio de Janeiro - RJ",
+      "bairro": "Leblon",
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/casa_clipper.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": true,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://riotur.rio/onde_comer/casa-clipper/",
+        "https://www.instagram.com/casa_clipper/",
+        "https://www.instagram.com/p/DUon63GkkWA/"
+      ],
+      "canonical_id": "casa_clipper"
+    },
+    {
+      "id": "oplebeu",
+      "input_label": "@oplebeu",
+      "name": "O Plebeu",
+      "instagram_profile": "@oplebeu",
+      "instagram_url": "https://www.instagram.com/oplebeu/",
+      "type": "bar",
+      "address": "Humaitá, Rio de Janeiro - RJ",
+      "bairro": "Humaitá",
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/oplebeu.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": true,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://wanderlog.com/place/details/1664142/o-plebeu",
+        "https://www.instagram.com/oplebeu/",
+        "https://www.instagram.com/p/DYXf0lkRoyz/"
+      ],
+      "canonical_id": "oplebeu"
+    },
+    {
+      "id": "pedradosal.oficial-2",
+      "input_label": "Pedra do Sal",
+      "name": "Pedra do Sal",
+      "instagram_profile": "@pedradosal.oficial",
+      "instagram_url": "https://www.instagram.com/pedradosal.oficial/",
+      "type": "roda de samba e evento cultural de rua",
+      "address": "Largo João da Baiana / Rua Argemiro Bulcão, Saúde/Gamboa, Rio de Janeiro - RJ",
+      "bairro": "Saúde",
+      "city": "Rio de Janeiro",
+      "opening_hours": "Roda de samba semanal às segundas, 19h às 23h, conforme credenciamento municipal citado em fonte pública",
+      "busiest_day": "segunda-feira",
+      "busiest_day_note": "A Pedra do Sal é amplamente citada como ponto tradicional de samba de segunda-feira.",
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": true,
+        "has_verified_opening_hours": true,
+        "has_verified_busiest_day": true,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://pt.wikipedia.org/wiki/Pedra_do_Sal",
+        "https://cultura.prefeitura.rio/wp-content/uploads/sites/38/2024/09/RESULTADO-PRELIMINAR-EDITAL-DE-CREDENCIAMENTO-DAS-RODAS-DE-SAMBA-1.docx.pdf",
+        "https://www.instagram.com/pedradosal.oficial/"
+      ],
+      "canonical_id": "pedradosal.oficial"
+    },
+    {
+      "id": "feiradesaocristovao",
+      "input_label": "Feira de São Cristóvão",
+      "name": "Feira de São Cristóvão / Centro Luiz Gonzaga de Tradições Nordestinas",
+      "instagram_profile": "@feiradesaocristovao",
+      "instagram_url": "https://www.instagram.com/feiradesaocristovao/",
+      "type": "feira cultural, forró, gastronomia nordestina",
+      "address": "Campo de São Cristóvão, s/n - São Cristóvão, Rio de Janeiro - RJ",
+      "bairro": "São Cristóvão",
+      "city": "Rio de Janeiro",
+      "opening_hours": "Terça a quinta 10h às 18h; sexta e sábado 10h às 04h; domingo 10h às 22h",
+      "busiest_day": "sábado e domingo",
+      "busiest_day_note": "Fim de semana concentra ingresso e programação cultural da feira.",
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": true,
+        "has_verified_opening_hours": true,
+        "has_verified_busiest_day": true,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://riotur.rio/que_fazer/luiz-gonzaga/",
+        "https://www.feiradesaocristovao.org.br/",
+        "https://www.locaisdobrasil.com.br/encontre/centro-cultural/rio-de-janeiro-rj/centro-luiz-gonzaga-de-tradicoes-nordestinas/66dfa44aa0d134ad69fa6071",
+        "https://www.instagram.com/feiradesaocristovao/"
+      ],
+      "canonical_id": "feiradesaocristovao"
+    },
+    {
+      "id": "becodorato",
+      "input_label": "Beco do rato",
+      "name": "Beco do Rato",
+      "instagram_profile": "@becodorato",
+      "instagram_url": "https://www.instagram.com/becodorato/",
+      "type": "casa de samba",
+      "address": "Rua Joaquim Silva, 11 - Lapa, Rio de Janeiro - RJ",
+      "bairro": "Lapa",
+      "city": "Rio de Janeiro",
+      "opening_hours": "Segunda 18h-01h; terça e quarta 18h-00h; quinta 18h-01h; sexta e sábado 18h-02h; domingo 11h-21h",
+      "busiest_day": "sexta e sábado",
+      "busiest_day_note": "Time Out cita agenda forte nas sextas e sábados; site oficial informa samba todos os dias e horários estendidos nesses dias.",
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/becodorato.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_full",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": true,
+        "has_verified_opening_hours": true,
+        "has_verified_busiest_day": true,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": true
+      },
+      "notes": "Registro completo com endereço, horário, dia forte e foto real vinculada.",
+      "sources": [
+        "https://becodorato.com.br/galeria/",
+        "https://vejario.abril.com.br/estabelecimento/beco-do-rato/",
+        "https://www.instagram.com/becodorato/",
+        "https://www.instagram.com/p/DYXqeirpKEr/",
+        "https://becodorato.com.br/",
+        "https://www.timeout.com/rio-de-janeiro/bars/beco-do-rato"
+      ],
+      "canonical_id": "becodorato"
+    },
+    {
+      "id": "sunset",
+      "input_label": "Sunset",
+      "name": "Sunset",
+      "instagram_profile": null,
+      "instagram_url": null,
+      "type": null,
+      "address": null,
+      "bairro": null,
+      "city": null,
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "unmatched_name",
+      "verified": false,
+      "active_2026": null,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Nome sem handle confirmado na base local; precisa de validação externa antes de uso no app.",
+      "sources": [],
+      "canonical_id": "sunset"
+    },
+    {
+      "id": "bar-do-molejao",
+      "input_label": "Bar do molejão",
+      "name": "Bar Do Molejão",
+      "instagram_profile": null,
+      "instagram_url": null,
+      "type": null,
+      "address": null,
+      "bairro": null,
+      "city": null,
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "unmatched_name",
+      "verified": false,
+      "active_2026": null,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Nome sem handle confirmado na base local; precisa de validação externa antes de uso no app.",
+      "sources": [],
+      "canonical_id": "bar-do-molejao"
+    },
+    {
+      "id": "cardosaoro",
+      "input_label": "cardosãoro",
+      "name": "Cardosãoro",
+      "instagram_profile": null,
+      "instagram_url": null,
+      "type": null,
+      "address": null,
+      "bairro": null,
+      "city": null,
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "unmatched_name",
+      "verified": false,
+      "active_2026": null,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Nome sem handle confirmado na base local; precisa de validação externa antes de uso no app.",
+      "sources": [],
+      "canonical_id": "cardosaoro"
+    },
+    {
+      "id": "capiberide",
+      "input_label": "Capiberide",
+      "name": "Capiberide",
+      "instagram_profile": null,
+      "instagram_url": null,
+      "type": null,
+      "address": null,
+      "bairro": null,
+      "city": null,
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "unmatched_name",
+      "verified": false,
+      "active_2026": null,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Nome sem handle confirmado na base local; precisa de validação externa antes de uso no app.",
+      "sources": [],
+      "canonical_id": "capiberide"
+    },
+    {
+      "id": "pineacardosao",
+      "input_label": "Pineacardosão",
+      "name": "Pineacardosão",
+      "instagram_profile": null,
+      "instagram_url": null,
+      "type": null,
+      "address": null,
+      "bairro": null,
+      "city": null,
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "unmatched_name",
+      "verified": false,
+      "active_2026": null,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Nome sem handle confirmado na base local; precisa de validação externa antes de uso no app.",
+      "sources": [],
+      "canonical_id": "pineacardosao"
+    },
+    {
+      "id": "terrabrasilis",
+      "input_label": "Terrabrasilis",
+      "name": "Terrabrasilis",
+      "instagram_profile": null,
+      "instagram_url": null,
+      "type": null,
+      "address": null,
+      "bairro": null,
+      "city": null,
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "unmatched_name",
+      "verified": false,
+      "active_2026": null,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Nome sem handle confirmado na base local; precisa de validação externa antes de uso no app.",
+      "sources": [],
+      "canonical_id": "terrabrasilis"
+    },
+    {
+      "id": "surubar.rj",
+      "input_label": "suruBar",
+      "name": "Surubar Rj",
+      "instagram_profile": "@surubar.rj",
+      "instagram_url": "https://www.instagram.com/surubar.rj/",
+      "type": "bar",
+      "address": null,
+      "bairro": "Lapa",
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/surubar.rj.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": null,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://www.instagram.com/surubar.rj/",
+        "https://www.instagram.com/p/DYVDgliOqi5/"
+      ],
+      "canonical_id": "surubar.rj"
+    },
+    {
+      "id": "labuta",
+      "input_label": "Labuta",
+      "name": "Labuta",
+      "instagram_profile": null,
+      "instagram_url": null,
+      "type": null,
+      "address": null,
+      "bairro": null,
+      "city": null,
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "unmatched_name",
+      "verified": false,
+      "active_2026": null,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Nome sem handle confirmado na base local; precisa de validação externa antes de uso no app.",
+      "sources": [],
+      "canonical_id": "labuta"
+    },
+    {
+      "id": "horto",
+      "input_label": "horto",
+      "name": "Horto",
+      "instagram_profile": null,
+      "instagram_url": null,
+      "type": null,
+      "address": null,
+      "bairro": null,
+      "city": null,
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "unmatched_name",
+      "verified": false,
+      "active_2026": null,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Nome sem handle confirmado na base local; precisa de validação externa antes de uso no app.",
+      "sources": [],
+      "canonical_id": "horto"
+    },
+    {
+      "id": "roda-da-rocinha",
+      "input_label": "roda da rocinha",
+      "name": "Roda Da Rocinha",
+      "instagram_profile": null,
+      "instagram_url": null,
+      "type": null,
+      "address": null,
+      "bairro": null,
+      "city": null,
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "unmatched_name",
+      "verified": false,
+      "active_2026": null,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Nome sem handle confirmado na base local; precisa de validação externa antes de uso no app.",
+      "sources": [],
+      "canonical_id": "roda-da-rocinha"
+    },
+    {
+      "id": "batalha-da-helianto",
+      "input_label": "batalha da helianto",
+      "name": "Batalha Da Helianto",
+      "instagram_profile": null,
+      "instagram_url": null,
+      "type": null,
+      "address": null,
+      "bairro": null,
+      "city": null,
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "unmatched_name",
+      "verified": false,
+      "active_2026": null,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Nome sem handle confirmado na base local; precisa de validação externa antes de uso no app.",
+      "sources": [],
+      "canonical_id": "batalha-da-helianto"
+    },
+    {
+      "id": "os-bares-de-santa",
+      "input_label": "os bares de santa",
+      "name": "Os Bares De Santa",
+      "instagram_profile": null,
+      "instagram_url": null,
+      "type": null,
+      "address": null,
+      "bairro": null,
+      "city": null,
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "unmatched_name",
+      "verified": false,
+      "active_2026": null,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Nome sem handle confirmado na base local; precisa de validação externa antes de uso no app.",
+      "sources": [],
+      "canonical_id": "os-bares-de-santa"
+    },
+    {
+      "id": "baile-do-santo-amaro-depois-feira-da-gloria",
+      "input_label": "baile do santo amaro depois feira da gloria",
+      "name": "Baile Do Santo Amaro Depois Feira Da Gloria",
+      "instagram_profile": null,
+      "instagram_url": null,
+      "type": null,
+      "address": null,
+      "bairro": null,
+      "city": null,
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "unmatched_name",
+      "verified": false,
+      "active_2026": null,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Nome sem handle confirmado na base local; precisa de validação externa antes de uso no app.",
+      "sources": [],
+      "canonical_id": "baile-do-santo-amaro-depois-feira-da-gloria"
+    },
+    {
+      "id": "praia-do-perigoso",
+      "input_label": "praia do perigoso",
+      "name": "Praia Do Perigoso",
+      "instagram_profile": null,
+      "instagram_url": null,
+      "type": null,
+      "address": null,
+      "bairro": null,
+      "city": null,
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "unmatched_name",
+      "verified": false,
+      "active_2026": null,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Nome sem handle confirmado na base local; precisa de validação externa antes de uso no app.",
+      "sources": [],
+      "canonical_id": "praia-do-perigoso"
+    },
+    {
+      "id": "prainha",
+      "input_label": "prainha",
+      "name": "Prainha",
+      "instagram_profile": null,
+      "instagram_url": null,
+      "type": null,
+      "address": null,
+      "bairro": null,
+      "city": null,
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "unmatched_name",
+      "verified": false,
+      "active_2026": null,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Nome sem handle confirmado na base local; precisa de validação externa antes de uso no app.",
+      "sources": [],
+      "canonical_id": "prainha"
+    },
+    {
+      "id": "batalha-do-coliseu",
+      "input_label": "batalha do coliseu",
+      "name": "Batalha Do Coliseu",
+      "instagram_profile": null,
+      "instagram_url": null,
+      "type": null,
+      "address": null,
+      "bairro": null,
+      "city": null,
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "unmatched_name",
+      "verified": false,
+      "active_2026": null,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Nome sem handle confirmado na base local; precisa de validação externa antes de uso no app.",
+      "sources": [],
+      "canonical_id": "batalha-do-coliseu"
+    },
+    {
+      "id": "tem-a-feira-praca-xv-de-manha-se-n-me-engano-sabado",
+      "input_label": "tem a feira praça xv de manha se n me engano sabado",
+      "name": "Tem A Feira Praça Xv De Manha Se N Me Engano Sabado",
+      "instagram_profile": null,
+      "instagram_url": null,
+      "type": null,
+      "address": null,
+      "bairro": null,
+      "city": null,
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "unmatched_name",
+      "verified": false,
+      "active_2026": null,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Nome sem handle confirmado na base local; precisa de validação externa antes de uso no app.",
+      "sources": [],
+      "canonical_id": "tem-a-feira-praca-xv-de-manha-se-n-me-engano-sabado"
+    },
+    {
+      "id": "butecotremetreme-2",
+      "input_label": "o treme treme em botafogo",
+      "name": "Buteco Treme Treme",
+      "instagram_profile": "@butecotremetreme",
+      "instagram_url": "https://www.instagram.com/butecotremetreme/",
+      "type": "boteco",
+      "address": "Rua Arnaldo Quintela, 31 - Botafogo, Rio de Janeiro - RJ",
+      "bairro": "Botafogo",
+      "city": "Rio de Janeiro",
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/butecotremetreme.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_partial",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": true,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Registro real, mas algum campo exigido não tem fonte segura; campos não comprovados ficam null.",
+      "sources": [
+        "https://wanderlog.com/place/details/8053117/boteco-treme-treme",
+        "https://www.instagram.com/butecotremetreme/",
+        "https://www.instagram.com/p/DFasPv4xAci/"
+      ],
+      "canonical_id": "butecotremetreme"
+    },
+    {
+      "id": "vaca-atolada",
+      "input_label": "vaca atolada",
+      "name": "Vaca Atolada",
+      "instagram_profile": null,
+      "instagram_url": null,
+      "type": null,
+      "address": null,
+      "bairro": null,
+      "city": null,
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "unmatched_name",
+      "verified": false,
+      "active_2026": null,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Nome sem handle confirmado na base local; precisa de validação externa antes de uso no app.",
+      "sources": [],
+      "canonical_id": "vaca-atolada"
+    },
+    {
+      "id": "armazem-do-campo",
+      "input_label": "armazem do campo",
+      "name": "Armazem Do Campo",
+      "instagram_profile": null,
+      "instagram_url": null,
+      "type": null,
+      "address": null,
+      "bairro": null,
+      "city": null,
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "unmatched_name",
+      "verified": false,
+      "active_2026": null,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Nome sem handle confirmado na base local; precisa de validação externa antes de uso no app.",
+      "sources": [],
+      "canonical_id": "armazem-do-campo"
+    },
+    {
+      "id": "salvadorjazz_",
+      "input_label": "jazz na são salvador",
+      "name": "Jazz Na São Salvador",
+      "instagram_profile": "@salvadorjazz_",
+      "instagram_url": "https://www.instagram.com/salvadorjazz_/",
+      "type": null,
+      "address": null,
+      "bairro": null,
+      "city": null,
+      "opening_hours": null,
+      "busiest_day": null,
+      "busiest_day_note": null,
+      "photos": [],
+      "photo_source": null,
+      "verification_status": "unverified_handle",
+      "verified": false,
+      "active_2026": null,
+      "data_quality": {
+        "has_verified_address": false,
+        "has_verified_opening_hours": false,
+        "has_verified_busiest_day": false,
+        "has_real_photo": false,
+        "safe_for_app_display": false,
+        "complete_for_requested_mock": false
+      },
+      "notes": "Handle não encontrado na base local e sem fonte segura nesta passada.",
+      "sources": [
+        "https://www.instagram.com/salvadorjazz_/"
+      ],
+      "canonical_id": "salvadorjazz_"
+    },
+    {
+      "id": "armazemcardosao-2",
+      "input_label": "cardosão",
+      "name": "Armazém Cardosão",
+      "instagram_profile": "@armazemcardosao",
+      "instagram_url": "https://www.instagram.com/armazemcardosao/",
+      "type": "boteco, mercearia, samba e jazz",
+      "address": "Rua Cardoso Júnior, 312 - Laranjeiras, Rio de Janeiro - RJ, 22245-000",
+      "bairro": "Laranjeiras",
+      "city": "Rio de Janeiro",
+      "opening_hours": "Terça a sexta a partir de 17h; sábado e domingo a partir de 12h",
+      "busiest_day": "sábado",
+      "busiest_day_note": "Riotur informa feijoada aos sábados e Time Out cita programação musical/rodas, incluindo samba às quintas.",
+      "photos": [
+        "https://raw.githubusercontent.com/ney332/ApiRaw/main/images/armazemcardosao.jpg"
+      ],
+      "photo_source": "github_raw_from_public_instagram_image",
+      "verification_status": "verified_full",
+      "verified": true,
+      "active_2026": true,
+      "data_quality": {
+        "has_verified_address": true,
+        "has_verified_opening_hours": true,
+        "has_verified_busiest_day": true,
+        "has_real_photo": true,
+        "safe_for_app_display": true,
+        "complete_for_requested_mock": true
+      },
+      "notes": "Registro com endereço, horário, dia forte e foto real vinculada.",
+      "sources": [
+        "https://riotur.rio/onde_comer/armazem-cardosao/",
+        "https://www.timeout.com/rio-de-janeiro/bars/armazem-cardosao",
+        "https://www.instagram.com/armazemcardosao/",
+        "https://www.instagram.com/p/DYXiTXDJxJ6/"
+      ],
+      "canonical_id": "armazemcardosao"
+    }
+  ]
+}
