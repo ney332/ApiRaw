@@ -1402,7 +1402,7 @@
     "age_restriction": null,
     "event_vibe": "bar alternativo",
     "audience": "adulto jovem",
-    "source_post_url": null,
+    "source_post_url": "https://www.instagram.com/suru.bar/",
     "confidence": 0.91,
     "image_url": null,
     "image_profile_match": "@surubar.rj"
@@ -1444,7 +1444,7 @@
     "age_restriction": null,
     "event_vibe": "festa urbana",
     "audience": "jovens adultos",
-    "source_post_url": null,
+    "source_post_url": "https://www.instagram.com/kzadesal/",
     "confidence": 0.92,
     "image_url": null,
     "image_profile_match": "@kzadesal"
@@ -1465,7 +1465,7 @@
     "age_restriction": null,
     "event_vibe": "lgbtqia+",
     "audience": "público LGBTQIA+",
-    "source_post_url": null,
+    "source_post_url": "https://www.instagram.com/pinkflamingorio/",
     "confidence": 0.96,
     "image_url": null,
     "image_profile_match": "@pinkflamingorj"
@@ -1486,7 +1486,7 @@
     "age_restriction": null,
     "event_vibe": "samba raiz",
     "audience": "amantes de samba",
-    "source_post_url": null,
+    "source_post_url": "https://www.instagram.com/taubarclub/",
     "confidence": 0.97,
     "image_url": null,
     "image_profile_match": "@becodorato"
