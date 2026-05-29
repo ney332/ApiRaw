@@ -1862,7 +1862,7 @@
     "event_date": "2026-05-29",
     "event_time": "21:30",
     "location_name": "Clube dos Macacos",
-    "instagram_profile": "@clubedosmacacos",
+    "instagram_profile": "@clubedosmacacosoficial",
     "bairro": "Jardim Botânico",
     "address": "Estrada Dona Castorina, 124 - Jardim Botânico",
     "artists": ["Sambotica", "Samba Pra Roda"],
@@ -1870,10 +1870,10 @@
     "age_restriction": null,
     "event_vibe": "samba",
     "audience": "amantes de samba",
-    "source_post_url": "https://www.instagram.com/clubedosmacacos/",
+    "source_post_url": "https://www.instagram.com/clubedosmacacosoficial/",
     "confidence": 0.96,
     "image_url": "https://diariodorio.com/wp-content/uploads/2019/10/rockeria-1.png",
-    "image_profile_match": "@clubedosmacacos"
+    "image_profile_match": "@clubedosmacacosoficial"
   }
 
 ]
